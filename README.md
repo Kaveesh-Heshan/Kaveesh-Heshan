@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Java, MERN, Spring boot**
 
-- 👯 I’m looking to collaborate on **Web development**
+- 👯 I’m seeking to collaborate on **Web development**
 
 - 🤝 I’m looking for help with **Web development**
 

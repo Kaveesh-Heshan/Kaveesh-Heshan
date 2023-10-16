@@ -1,7 +1,7 @@
 ![MasterHead](https://www.techgropse.com/blog/wp-content/uploads/2022/10/An-Overview-of-the-Java.gif)
 <h1 align="center">Hi 👋, I'm Kaveesh Heshan</h1>
 <h3 align="center">A passionate Java Web developer from Sri Lanka</h3>
-<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/11-29-2017/DW588u.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaveesh-heshan&label=Profile%20views&color=0e75b6&style=flat" alt="kaveesh-heshan" /> </p>
 
